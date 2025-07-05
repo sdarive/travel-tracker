@@ -1,0 +1,12 @@
+# CNAME File for Custom Domain
+# 
+# INSTRUCTIONS:
+# 1. Replace 'worldmap.yourdomain.com' with your actual subdomain
+# 2. If you don't have a custom domain, DELETE this file
+# 3. Make sure to add a CNAME record in your DNS settings pointing to: yourusername.github.io
+#
+# Example: If your GitHub username is 'johndoe' and repository is 'travel-map'
+# Your CNAME record should point to: johndoe.github.io
+#
+# Uncomment the line below and replace with your domain:
+# worldmap.yourdomain.com
